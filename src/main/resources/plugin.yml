@@ -1,0 +1,16 @@
+name: ClaimPlugin
+version: ${project.version}
+main: io.ayushchivate.github.claimplugin.ClaimPlugin
+api-version: 1.16
+
+commands:
+  claim:
+    description: assigns a chunk to a player
+  unclaim:
+    description: unassigns a chunk from a player
+  trust:
+    description: trusts a player in a chunk
+  untrust:
+    description: untrusts a player in a chunk
+  flags:
+    description: shows the flags menu
