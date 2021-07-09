@@ -1,6 +1,6 @@
 # Chunk Claimer
 
-A plugin for Minecraft 1.8.8 that detects and alerts the server owner if a player is using auto click software.
+A plugin for Minecraft 1.17 that allows players to claim chunks and set permissions for other players inside that chunk.
 
 ## Built With
 
